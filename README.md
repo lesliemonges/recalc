@@ -13,3 +13,4 @@ Calculadora con funciones simples.
 npm run start
 ```
 ## Nombres Integrantes
+Leslie Monges
